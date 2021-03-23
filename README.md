@@ -1,4 +1,4 @@
-#### Hey! Here's something to get to know me. I'm:
+#### 👋 Hey! Here's something to get to know me. I'm:
 
 # Saurav Pal (resyfer)
 
@@ -6,7 +6,6 @@ A <b>Computer Science and Engineering Undergraduate</b> student from <b>[The Nat
 <br><br>
 Age: 19<br>
 Gender: Male<br>
-Pronouns: He/Him<br>
 
 <h4>Contact Me:</h4>
 <code><a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=palsaurav.2020@gmail.com&tf=1"><img height="30" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"></a></code>
