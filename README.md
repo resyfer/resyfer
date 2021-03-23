@@ -30,6 +30,6 @@ Pronouns: He/Him<br>
 </div>
 <br><br>
 <div align="centre" width="90%">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=resyfer&count_private=t&hide=stars&theme=cobalt">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resyfer&theme=cobalt&layout=compact">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=resyfer&count_private=t&hide=stars&theme=cobalt">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resyfer&theme=cobalt&layout=compact">
 </div>
