@@ -1,7 +1,6 @@
 #### Hey! Here's something to get to know me. I'm:
 
-# Saurav Pal
-## resyfer
+# Saurav Pal (resyfer)
 
 A <b>Computer Science and Engineering Undergraduate</b> student from <b>[The National Institute of Technology, Silchar](http://www.nits.ac.in)</b>, one of the handful few <b>Institutes of Eminence</b> in India.
 <br><br>
