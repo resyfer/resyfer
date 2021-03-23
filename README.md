@@ -1,15 +1,13 @@
-<b style="font-size:1em;">Hey! Here's something to get to know me. I'm:</b>
+#### Hey! Here's something to get to know me. I'm:
 
-<b style="font-size:3em;">Saurav Pal</b><br>
-<b style="font-size:1.5em;">resyfer</b>
+# Saurav Pal
+## resyfer
 
 A <b>Computer Science and Engineering Undergraduate</b> student from <b>[The National Institute of Technology, Silchar](http://www.nits.ac.in)</b>, one of the handful few <b>Institutes of Eminence</b> in India.
 <br><br>
 Age: 19<br>
 Gender: Male<br>
 Pronouns: He/Him<br>
-
-<p>Currently studying in the <b>2nd Semester</b> for <b>Bachelor's of Technology</b> in <b>Computer Science and Engineering</b></p>
 
 <h4>Contact Me:</h4>
 <code><a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=palsaurav.2020@gmail.com&tf=1"><img height="30" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"></a></code>
