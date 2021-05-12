@@ -7,11 +7,21 @@ A <b>Computer Science and Engineering Undergraduate</b> student from <b>[The Nat
 Age: 19<br>
 Gender: Male<br>
 
-<h4>Contact Me:</h4>
+#### Contact Me
+
 <code><a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=palsaurav.2020@gmail.com&tf=1"><img height="35" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"></a></code>
 <code><a title="LinkedIn" href="https://www.linkedin.com/in/resyfer/"><img  height="35" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"></a></code>
 <code><a title="Facebook" href="https://www.facebook.com/resyfer17/"><img  height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png"></a></code>
 <hr>
+
+## Achievements
+
+- 🏆 Winner of NITS NibbleCode 4.0, 2021
+- 🏆 Winner of NITS ENIAC, 2021
+- 🏆 Runner-up of NITS Cyberbot 4.0, 2021
+- 🏆 Second Runner-up of NITS Abacus Typing Race, 2021
+- 4th place in NITS Algochemy 4.0, 2021
+- Finalist in NITS CSS Hacks 2.0, 2021 (One of the two first-year finalist teams)
 
 ## My skills
 <div align="center" width=80%>
