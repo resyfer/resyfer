@@ -6,7 +6,7 @@ I'm <b>Saurav Pal</b> <i>(resyfer)</i>
 
 A First Year <b>Computer Science and Engineering Undergraduate</b> student from <b>[The National Institute of Technology, Silchar, India](http://www.nits.ac.in)</b>, an <b>Institute of Eminence</b> in India.
 
-As someone who likes programming a lot, I let my imagination and creativity wander free to touch the skies and even beyond. Comparing yourself to your own former self is something I believe is the key to improving. 😊
+As someone who likes programming a lot, I let my imagination and creativity wander free to touch the skies and even beyond. Comparing yourself to your own former self is something, I believe, the key to improving. 😊
 <br><br>
 
 A bit of my personal info: <br>
