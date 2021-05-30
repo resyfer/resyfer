@@ -1,6 +1,6 @@
 #### 👋 Holla! Wanna know more about me?
 
-I'm &nbsp;&nbsp;&nbsp;<b><font size="5">Saurav Pal</font></b>&nbsp;&nbsp;<i><font size="4">(resyfer)</font></i>
+I'm <b>Saurav Pal</b> <i>(resyfer)</i>
 
 <hr>
 
@@ -10,20 +10,22 @@ As someone who likes programming a lot, I let my imagination and creativity wand
 <br><br>
 
 A bit of my personal info: <br>
-&emsp;Gender: Male<br>
-&emsp;Pronouns: His/Him<br>
-&emsp;Age: 19<br>
-&emsp;Country: India<br>
+- Gender: Male<br>
+- Pronouns: His/Him<br>
+- Age: 19<br>
+- Country: India<br>
 <br>
 <hr>
-<font size="4">Wanna Contact Me?</font>
+
+### Wanna Contact Me?
+
 <div align="center" width=80%>
 <code><a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=palsaurav.2020@gmail.com&tf=1"><img height="40" src="./img/gmail.svg"></a></code>&emsp;&emsp;
 <code><a title="LinkedIn" href="https://www.linkedin.com/in/resyfer/"><img  height="40" src="./img/linkedin.svg"></a></code>&emsp;&emsp;
 <code><a title="Facebook" href="https://www.facebook.com/resyfer17/"><img  height="40" src="./img/facebook.svg"></a></code>&emsp;&emsp;
 <code><a title="WhatsApp" href="https://api.whatsapp.com/send?phone=919152539529"><img  height="40" src="./img/whatsapp.svg"></a></code>
 </div>
-<br><br>
+<br>
 
 ## Stuff I've Achieved
 
@@ -39,9 +41,10 @@ A bit of my personal info: <br>
   - 🏆 Winner of ENIAC (Coding Competition), Spectrum, N.I.T. Silchar, 2021
   - 🏆 2<sup>nd</sup> at NITS Cyberbot 4.0 (Web Development Competition), , N.I.T. Silchar, 2021
   - 🏆 3<sup>rd</sup> at Typing Race, Abacus, N.I.T. Silchar, 2021
-  - 4th place in NITS Algochemy 4.0, 2021
-  - Finalist in NITS CSS Hacks 2.0, 2021 (One of the two first-year finalist teams)
-<br><br>
+  - 4th place in Algochemy 4.0 (Coding Competition), Abacus, N.I.T. Silchar, 2021
+  - Finalist in Hacks 2.0 (Hackathon), CSS, N.I.T. Silchar, 2021 (One of the two first-year finalists)
+<br>
+
 ## Tech Stuff I Know
 
 <div align="center" width=80%>
@@ -58,8 +61,8 @@ A bit of my personal info: <br>
   <code><img title="Python" height="45" src="./img/python.svg"></code>&emsp;&nbsp;
   <code><img title="TypeScript (TS)" height="45" src="./img/typescript.svg"></code>&emsp;&nbsp;
   <code><img title="Vue JS" height="45" src="./img/vue.svg"></code>&emsp;&nbsp;
-  <code><img title="React" height="45" src="./img/reactjs.svg"></code>
-  <code><img title="MongoDB" height="45" src="./img/mongodb.svg"></code>&emsp;&nbsp;
+  <code><img title="React" height="45" src="./img/reactjs.svg"></code>&emsp;&nbsp;
+  <code><img title="MongoDB" height="45" src="./img/mongodb.svg"></code>
 </div>
 <br><br>
 
