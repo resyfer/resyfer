@@ -1,44 +1,71 @@
-#### 👋 Hey! Here's something to get to know me. I'm:
+#### 👋 Holla! Wanna know more about me?
 
-# Saurav Pal (resyfer)
+I'm &nbsp;&nbsp;&nbsp;<b><font size="5">Saurav Pal</font></b>&nbsp;&nbsp;<i><font size="4">(resyfer)</font></i>
 
-A <b>Computer Science and Engineering Undergraduate</b> student from <b>[The National Institute of Technology, Silchar](http://www.nits.ac.in)</b>, one of the handful few <b>Institutes of Eminence</b> in India.
-<br><br>
-Age: 19<br>
-Gender: Male<br>
-
-#### Contact Me
-
-<code><a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=palsaurav.2020@gmail.com&tf=1"><img height="35" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"></a></code>
-<code><a title="LinkedIn" href="https://www.linkedin.com/in/resyfer/"><img  height="35" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"></a></code>
-<code><a title="Facebook" href="https://www.facebook.com/resyfer17/"><img  height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png"></a></code>
 <hr>
 
-## Achievements
+A First Year <b>Computer Science and Engineering Undergraduate</b> student from <b>[The National Institute of Technology, Silchar, India](http://www.nits.ac.in)</b>, an <b>Institute of Eminence</b> in India.
 
-- 🏆 Winner of NITS NibbleCode 4.0, 2021
-- 🏆 Winner of NITS ENIAC, 2021
-- 🏆 Runner-up of NITS Cyberbot 4.0, 2021
-- 🏆 Second Runner-up of NITS Abacus Typing Race, 2021
-- 4th place in NITS Algochemy 4.0, 2021
-- Finalist in NITS CSS Hacks 2.0, 2021 (One of the two first-year finalist teams)
+As someone who likes programming a lot, I let my imagination and creativity wander free to touch the skies and even beyond. Comparing yourself to your own former self is something I believe is the key to improving. 😊
+<br><br>
 
-## My skills
+A bit of my personal info: <br>
+&emsp;Gender: Male<br>
+&emsp;Pronouns: His/Him<br>
+&emsp;Age: 19<br>
+&emsp;Country: India<br>
+<br>
+<hr>
+<font size="4">Wanna Contact Me?</font>
 <div align="center" width=80%>
-  <code><img title="C++17" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png"></code>
-  <code><img title="C(11)" height="45" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-  <code><img title="JavaScript (JS)" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
-  <code><img title="SASS" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"></code>
-  <code><img title="HTML 5" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code>
-  <code><img title="CSS 3" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img title="NodeJs" height="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></code>
-  <code><img title="Git" height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-  <code><img title="Python" height="40" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
-  <code><img title="TypeScript (TS)" height="40" src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae"></code>
-  <code><img title="Vue.js" height="40" src="https://vuejs.org/images/logo.png"></code>
+<code><a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=palsaurav.2020@gmail.com&tf=1"><img height="40" src="./img/gmail.svg"></a></code>&emsp;&emsp;
+<code><a title="LinkedIn" href="https://www.linkedin.com/in/resyfer/"><img  height="40" src="./img/linkedin.svg"></a></code>&emsp;&emsp;
+<code><a title="Facebook" href="https://www.facebook.com/resyfer17/"><img  height="40" src="./img/facebook.svg"></a></code>&emsp;&emsp;
+<code><a title="WhatsApp" href="https://api.whatsapp.com/send?phone=919152539529"><img  height="40" src="./img/whatsapp.svg"></a></code>
 </div>
 <br><br>
+
+## Stuff I've Achieved
+
+### Positions
+
+- <u>First Year:</u>
+  - Member, Web Development Team, Model United Nations, N.I.T. Silchar (May 20th, 2021 - Present)
+
+### Contests/Tournaments
+
+- <u>First Year:</u>
+  - 🏆 Winner of NibbleCode 4.0 (Coding Competition), Tecnoesis, N.I.T. Silchar, 2021
+  - 🏆 Winner of ENIAC (Coding Competition), Spectrum, N.I.T. Silchar, 2021
+  - 🏆 2<sup>nd</sup> at NITS Cyberbot 4.0 (Web Development Competition), , N.I.T. Silchar, 2021
+  - 🏆 3<sup>rd</sup> at Typing Race, Abacus, N.I.T. Silchar, 2021
+  - 4th place in NITS Algochemy 4.0, 2021
+  - Finalist in NITS CSS Hacks 2.0, 2021 (One of the two first-year finalist teams)
+<br><br>
+## Tech Stuff I Know
+
+<div align="center" width=80%>
+  <code><img title="C++ 17" height="45" src="./img/cpp.svg"></code>&emsp;&nbsp;
+  <code><img title="C (11)" height="45" src="./img/c.svg"></code>&emsp;&nbsp;
+  <code><img title="JavaScript (JS)" height="45" src="./img/javascript.svg"></code>&emsp;&nbsp;
+  <code><img title="Syntactically Awesome Style Sheets (Sass)" height="45" src="./img/sass.svg"></code>&emsp;&nbsp;
+  <code><img title="JSON" height="45" src="./img/json.svg"></code>&emsp;&nbsp;
+  <code><img title="HTML 5" height="45" src="./img/html.svg"></code>&emsp;&nbsp;
+  <code><img title="CSS 3" height="45" src="./img/css.svg"></code>&emsp;&nbsp;
+  <code><img title="NodeJS" height="45" src="./img/nodejs.svg"></code>&emsp;&nbsp;
+  <code><img title="Express & EJS" height="45" src="./img/ejs.svg"></code>&emsp;&nbsp;
+  <code><img title="Git" height="45" src="./img/git.svg"></code>&emsp;&nbsp;
+  <code><img title="Python" height="45" src="./img/python.svg"></code>&emsp;&nbsp;
+  <code><img title="TypeScript (TS)" height="45" src="./img/typescript.svg"></code>&emsp;&nbsp;
+  <code><img title="Vue JS" height="45" src="./img/vue.svg"></code>&emsp;&nbsp;
+  <code><img title="React" height="45" src="./img/reactjs.svg"></code>
+  <code><img title="MongoDB" height="45" src="./img/mongodb.svg"></code>&emsp;&nbsp;
+</div>
+<br><br>
+
+## My Github Activity
+
 <div align="center" width=100%>
-  <code><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resyfer&theme=cobalt&layout=compact"></code>
+  <code><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resyfer&theme=cobalt&layout=compact"></code>&emsp;
   <code><img height="150" src="https://github-readme-stats.vercel.app/api?username=resyfer&count_private=t&hide=stars&theme=cobalt"></code>
 </div>
