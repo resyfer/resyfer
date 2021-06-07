@@ -63,7 +63,7 @@ A bit of my personal info: <br>
   <code><img title="Python" height="45" src="./img/python.svg"></code>&emsp;&nbsp;
   <code><img title="PHP" height="45" src="./img/php.svg"></code>
   <code><img title="TypeScript (TS)" height="45" src="./img/typescript.svg"></code>&emsp;&nbsp;
-  <code><img title="Bootstrap 5" height="45" src="./img/bootstrap5.svg"></code>
+  <code><img title="Bootstrap 5" height="45" src="./img/bootstrap5.svg"></code>&emsp;&nbsp;
   <code><img title="Vue JS" height="45" src="./img/vue.svg"></code>&emsp;&nbsp;
   <code><img title="MongoDB" height="45" src="./img/mongodb.svg"></code>
 </div>
