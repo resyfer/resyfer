@@ -33,6 +33,7 @@ A bit of my personal info: <br>
 
 - <u>First Year:</u>
   - Member, Web Development Team, Model United Nations, N.I.T. Silchar (May 20th, 2021 - Present)
+  - Member, Wev Development Team, Official website of Physics Department, N.I.T. Silchar (June 5th, 2021 - Present)
 
 ### Contests/Tournaments
 
