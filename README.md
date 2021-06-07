@@ -49,8 +49,8 @@ A bit of my personal info: <br>
 
 <div align="center" width=80%>
   <code><img title="C++ 17" height="45" src="./img/cpp.svg"></code>&emsp;&nbsp;
-  <code><img title="C (11)" height="45" src="./img/c.svg"></code>&emsp;&nbsp;
   <code><img title="JavaScript (JS)" height="45" src="./img/javascript.svg"></code>&emsp;&nbsp;
+  <code><img title="C (11)" height="45" src="./img/c.svg"></code>&emsp;&nbsp;
   <code><img title="Syntactically Awesome Style Sheets (Sass)" height="45" src="./img/sass.svg"></code>&emsp;&nbsp;
   <code><img title="JSON" height="45" src="./img/json.svg"></code>&emsp;&nbsp;
   <code><img title="React" height="45" src="./img/reactjs.svg"></code>&emsp;&nbsp;
