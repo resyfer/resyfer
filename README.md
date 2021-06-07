@@ -53,15 +53,17 @@ A bit of my personal info: <br>
   <code><img title="JavaScript (JS)" height="45" src="./img/javascript.svg"></code>&emsp;&nbsp;
   <code><img title="Syntactically Awesome Style Sheets (Sass)" height="45" src="./img/sass.svg"></code>&emsp;&nbsp;
   <code><img title="JSON" height="45" src="./img/json.svg"></code>&emsp;&nbsp;
-  <code><img title="HTML 5" height="45" src="./img/html.svg"></code>&emsp;&nbsp;
-  <code><img title="CSS 3" height="45" src="./img/css.svg"></code>&emsp;&nbsp;
+  <code><img title="React" height="45" src="./img/reactjs.svg"></code>&emsp;&nbsp;
   <code><img title="NodeJS" height="45" src="./img/nodejs.svg"></code>&emsp;&nbsp;
   <code><img title="Express & EJS" height="45" src="./img/ejs.svg"></code>&emsp;&nbsp;
+  <code><img title="CSS 3" height="45" src="./img/css.svg"></code>&emsp;&nbsp;
+  <code><img title="HTML 5" height="45" src="./img/html.svg"></code>&emsp;&nbsp;
   <code><img title="Git" height="45" src="./img/git.svg"></code>&emsp;&nbsp;
   <code><img title="Python" height="45" src="./img/python.svg"></code>&emsp;&nbsp;
+  <code><img title="PHP" height="45" src="./img/php.svg"></code>
   <code><img title="TypeScript (TS)" height="45" src="./img/typescript.svg"></code>&emsp;&nbsp;
+  <code><img title="Bootstrap 5" height="45" src="./img/bootstrap5.svg"></code>
   <code><img title="Vue JS" height="45" src="./img/vue.svg"></code>&emsp;&nbsp;
-  <code><img title="React" height="45" src="./img/reactjs.svg"></code>&emsp;&nbsp;
   <code><img title="MongoDB" height="45" src="./img/mongodb.svg"></code>
 </div>
 <br><br>
