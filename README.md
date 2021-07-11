@@ -59,6 +59,6 @@ Oh and, a fresher learning the hell of doing a CSE major at [The National Instit
   
   | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resyfer&theme=synthwave&layout=compact"> | <img height="150" src="https://github-readme-stats.vercel.app/api?username=resyfer&count_private=t&hide=stars&theme=synthwave"> |
   |---|---|
-  <img src="https://activity-graph.herokuapp.com/graph?username=resyfer&theme=react-dark&line=4722df&color=4722df&bg_color=2A2D32&custom_title=Me%20Doing%20What%20I%20Do&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=resyfer&theme=react-dark&line=4722df&color=efefef&bg_color=2A2D32&custom_title=Me%20Doing%20What%20I%20Do&hide_border=true" />
 
 </div>
