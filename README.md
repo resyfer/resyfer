@@ -1,77 +1,64 @@
-#### 👋 Holla! Wanna know more about me?
+#### 👋 Supp!
 
-I'm <b>Saurav Pal</b> <i>(resyfer)</i>
+<!-- ![profile visit](https://komarev.com/ghpvc/?username=resyfer) -->
 
-<hr>
+# I'm <b>Saurav Pal</b> <i>(resyfer)</i>
 
-A First Year <b>Computer Science and Engineering Undergraduate</b> student from <b>[The National Institute of Technology, Silchar, India](http://www.nits.ac.in)</b>, an <b>Institute of Eminence</b> in India.
-
-As someone who likes programming a lot, I let my imagination and creativity wander free to touch the skies and even beyond. Comparing yourself to your own former self is something, I believe, the key to improving. 😊
-<br><br>
-
-A bit of my personal info: <br>
-- Gender: Male<br>
-- Pronouns: His/Him<br>
-- Age: 19<br>
-- Country: India<br>
+Let's see . . . um, 19, Male (his/him), Indian<br><br>
+Oh and, a fresher learning the hell of doing a CSE major at [The National Institute of Technology, Silchar, India](http://www.nits.ac.in), which is an Institute of Eminence (in short, big scary important prison . . . I mean . . . college)
 <br>
-<hr>
 
-### Wanna Contact Me?
+## Wanna Say Hi?
 
 <div align="center" width=80%>
-<code><a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=palsaurav.2020@gmail.com&tf=1"><img height="40" src="./img/gmail.svg"></a></code>&emsp;&emsp;
-<code><a title="LinkedIn" href="https://www.linkedin.com/in/resyfer/"><img  height="40" src="./img/linkedin.svg"></a></code>&emsp;&emsp;
-<code><a title="Facebook" href="https://www.facebook.com/resyfer17/"><img  height="40" src="./img/facebook.svg"></a></code>&emsp;&emsp;
-<code><a title="WhatsApp" href="https://api.whatsapp.com/send?phone=919152539529"><img  height="40" src="./img/whatsapp.svg"></a></code>
+<a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=palsaurav.2020@gmail.com&tf=1"><img height="45" src="./img/gmail.svg"></a>&emsp;&emsp;
+<a title="LinkedIn" href="https://www.linkedin.com/in/resyfer/"><img  height="40" src="./img/linkedin.svg"></a>&emsp;&emsp;
+<a title="Facebook" href="https://www.facebook.com/resyfer17/"><img  height="40" src="./img/facebook.svg"></a>&emsp;&emsp;
+<a title="WhatsApp" href="https://api.whatsapp.com/send?phone=919152539529"><img  height="40" src="./img/whatsapp.svg"></a>
 </div>
 <br>
 
-## Stuff I've Achieved
+## Proof I don't anime all day 😎
 
 ### Positions
 
 - <u>First Year:</u>
-  - Member, Web Development Team, Model United Nations, N.I.T. Silchar (May 20th, 2021 - Present)
-  - Member, Wev Development Team, Official website of Physics Department, N.I.T. Silchar (June 5th, 2021 - Present)
+  - Member, Web Development Team, [Model United Nations, NIT Silchar](https://github.com/AdityaKotari/nitsmun2021-22) (May 20th, 2021 - Present)
+  - Co-Developer with [Pratik Majumdar](https://github.com/codadept), [Official website of Physics Department, NIT Silchar](http://www.nits.ac.in/departments/physics/physics.php) (June 5th, 2021 - Present)
 
 ### Contests/Tournaments
 
 - <u>First Year:</u>
-  - 🏆 Winner of NibbleCode 4.0 (Coding Competition), Tecnoesis, N.I.T. Silchar, 2021
-  - 🏆 Winner of ENIAC (Coding Competition), Spectrum, N.I.T. Silchar, 2021
-  - 🏆 2<sup>nd</sup> at NITS Cyberbot 4.0 (Web Development Competition), , N.I.T. Silchar, 2021
-  - 🏆 3<sup>rd</sup> at Typing Race, Abacus, N.I.T. Silchar, 2021
-  - 4th place in Algochemy 4.0 (Coding Competition), Abacus, N.I.T. Silchar, 2021
-  - Finalist in Hacks 2.0 (Hackathon), CSS, N.I.T. Silchar, 2021 (One of the two first-year finalists)
+  - 🏆 Winner of NibbleCode 4.0 (Coding Competition), Tecnoesis, NIT Silchar, 2021
+  - 🏆 Winner of ENIAC (Coding Competition), Spectrum, NIT Silchar, 2021
+  - 🏆 2<sup>nd</sup> at Cyberbot 4.0 (Web Development Competition), Tecnoesis, NIT Silchar, 2021
+  - 🏆 3<sup>rd</sup> at Typing Race, Abacus, NIT Silchar, 2021
+  - 4th place in Algochemy 4.0 (Coding Competition), Abacus, NIT Silchar, 2021
+  - One of Finalist Teams in Hacks 2.0 (Hackathon), CSS, NIT Silchar, 2021 (One of the two first-year finalists)
 <br>
 
-## Tech Stuff I Know
+## Skills that label me as a geek 🙄
 
 <div align="center" width=80%>
-  <code><img title="C++ 17" height="45" src="./img/cpp.svg"></code>&emsp;&nbsp;
-  <code><img title="JavaScript (JS)" height="45" src="./img/javascript.svg"></code>&emsp;&nbsp;
-  <code><img title="C (11)" height="45" src="./img/c.svg"></code>&emsp;&nbsp;
-  <code><img title="React" height="45" src="./img/reactjs.svg"></code>&emsp;&nbsp;
-  <code><img title="Syntactically Awesome Style Sheets (Sass)" height="45" src="./img/sass.svg"></code>&emsp;&nbsp;
-  <code><img title="JSON" height="45" src="./img/json.svg"></code>&emsp;&nbsp;
-  <code><img title="NodeJS" height="45" src="./img/nodejs.svg"></code>&emsp;&nbsp;
-  <code><img title="Express & EJS" height="45" src="./img/ejs.svg"></code>&emsp;&nbsp;
-  <code><img title="CSS 3" height="45" src="./img/css.svg"></code>&emsp;&nbsp;
-  <code><img title="HTML 5" height="45" src="./img/html.svg"></code>&emsp;&nbsp;
-  <code><img title="Git" height="45" src="./img/git.svg"></code>&emsp;&nbsp;
-  <code><img title="Python" height="45" src="./img/python.svg"></code>&emsp;&nbsp;
-  <code><img title="PHP" height="45" src="./img/php.svg"></code>&emsp;&nbsp;
-  <code><img title="TypeScript (TS)" height="45" src="./img/typescript.svg"></code>&emsp;&nbsp;
-  <code><img title="Bootstrap 5" height="45" src="./img/bootstrap5.svg"></code>&emsp;&nbsp;
-  <code><img title="Vue JS" height="45" src="./img/vue.svg"></code>&emsp;&nbsp;
-  <code><img title="MongoDB" height="45" src="./img/mongodb.svg"></code>
+  
+<br><br>
+  
+| <img title="MongoDB" height="45" src="./img/mongodb.svg"> | <img title="Express & EJS" height="45" src="./img/ejs.svg"> | <img title="React" height="45" src="./img/reactjs.svg"> | <img title="NodeJS" height="45" src="./img/nodejs.svg"> |
+|---|---|---|---|
+| <img title="JavaScript (JS)" height="45" src="./img/javascript.svg"> | <img title="C++ 17" height="45" src="./img/cpp.svg"> | <img title="Syntactically Awesome Style Sheets (Sass)" height="45" src="./img/sass.svg"> | <img title="JSON" height="45" src="./img/json.svg"> |
+| <img title="C (11)" height="45" src="./img/c.svg"> | <img title="HTML 5" height="45" src="./img/html.svg"> | <img title="CSS 3" height="45" src="./img/css.svg"> | <img title="PHP" height="45" src="./img/php.svg"> |
+| <img title="Python" height="45" src="./img/python.svg"> | <img title="TypeScript (TS)" height="45" src="./img/typescript.svg"> | <img title="Bootstrap 5" height="45" src="./img/bootstrap5.svg"> | <img title="Vue JS" height="45" src="./img/vue.svg"> |
+
+<!-- Figma, Git -->
 </div>
 <br><br>
 
-## My Github Activity
+## If you observe carefully, you can see I have no life
 
 <div align="center" width=100%>
-  <code><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resyfer&theme=cobalt&layout=compact"></code>&emsp;
-  <code><img height="150" src="https://github-readme-stats.vercel.app/api?username=resyfer&count_private=t&hide=stars&theme=cobalt"></code>
+  
+  | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resyfer&theme=synthwave&layout=compact"> | <img height="150" src="https://github-readme-stats.vercel.app/api?username=resyfer&count_private=t&hide=stars&theme=synthwave"> |
+  |---|---|
+  <img src="https://activity-graph.herokuapp.com/graph?username=resyfer&theme=react-dark&line=4722df&color=4722df&bg_color=2A2D32&custom_title=Me%20Doing%20What%20I%20Do&hide_border=true" />
+
 </div>
