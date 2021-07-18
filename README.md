@@ -1,5 +1,7 @@
 #### 👋 Supp!
 
+If you wanna know more about me, do give my [portfolio](https://resyfer.vercel.app/)
+
 # I'm <b>Saurav Pal</b> <i>(resyfer)</i>
 
 Let's see . . . um, 19, Male (his/him), Indian<br><br>
