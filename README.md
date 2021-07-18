@@ -1,7 +1,5 @@
 #### 👋 Supp!
 
-<!-- ![profile visit](https://komarev.com/ghpvc/?username=resyfer) -->
-
 # I'm <b>Saurav Pal</b> <i>(resyfer)</i>
 
 Let's see . . . um, 19, Male (his/him), Indian<br><br>
