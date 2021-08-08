@@ -19,7 +19,7 @@ Oh and, a fresher learning the hell of doing a CSE major at [The National Instit
 <br>
   
 <code><img title="MongoDB" height="45" src="./img/mongodb.svg"></code>&emsp;
-<code><img title="Express" height="45" src="./img/expressjslogo.svg"></code>&emsp;
+<code><img title="Express" height="45" src="./img/express.svg"></code>&emsp;
 <code><img title="React" height="45" src="./img/reactjs.svg"></code>&emsp;
 <code><img title="NodeJS" height="45" src="./img/nodejs.svg"></code>&emsp;
 <code><img title="GraphQL & Apollo" height="45" src="./img/graphql.svg"></code>&emsp;
