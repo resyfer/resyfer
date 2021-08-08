@@ -14,15 +14,25 @@ Oh and, a fresher learning the hell of doing a CSE major at [The National Instit
   
 <br>
   
-| <img title="MongoDB" height="45" src="./img/mongodb.svg"> | <img title="Express & EJS" height="45" src="./img/ejs.svg"> | <img title="React" height="45" src="./img/reactjs.svg"> | <img title="NodeJS" height="45" src="./img/nodejs.svg"> |
-|---|---|---|---|
-|||||
-|||||
-| <img title="JavaScript (JS)" height="45" src="./img/javascript.svg"> | <img title="C++ 17" height="45" src="./img/cpp.svg"> | <img title="Syntactically Awesome Style Sheets (Sass)" height="45" src="./img/sass.svg"> | <img title="JSON" height="45" src="./img/json.svg"> |
-|||||
-| <img title="C (11)" height="45" src="./img/c.svg"> | <img title="HTML 5" height="45" src="./img/html.svg"> | <img title="CSS 3" height="45" src="./img/css.svg"> | <img title="PHP" height="45" src="./img/php.svg"> |
-|||||
-| <img title="Python" height="45" src="./img/python.svg"> | <img title="TypeScript (TS)" height="45" src="./img/typescript.svg"> | <img title="Bootstrap 5" height="45" src="./img/bootstrap5.svg"> | <img title="Vue JS" height="45" src="./img/vue.svg"> |
+<code><img title="MongoDB" height="45" src="./img/mongodb.svg"></code>
+<code><img title="Express & EJS" height="45" src="./img/ejs.svg"></code>
+<code><img title="React" height="45" src="./img/reactjs.svg"></code>
+<code><img title="NodeJS" height="45" src="./img/nodejs.svg"></code>
+
+<code><img title="JavaScript (JS)" height="45" src="./img/javascript.svg"></code>
+<code><img title="C++ 17" height="45" src="./img/cpp.svg"></code>
+<code><img title="Syntactically Awesome Style Sheets (Sass)" height="45" src="./img/sass.svg"></code>
+<code><img title="JSON" height="45" src="./img/json.svg"></code>
+
+<code><img title="C (11)" height="45" src="./img/c.svg"></code>
+<code><img title="HTML 5" height="45" src="./img/html.svg"></code>
+<code><img title="CSS 3" height="45" src="./img/css.svg"></code>
+<code><img title="PHP" height="45" src="./img/php.svg"></code>
+
+<code><img title="Python" height="45" src="./img/python.svg"></code>
+<code><img title="TypeScript (TS)" height="45" src="./img/typescript.svg"></code>
+<code><img title="Bootstrap 5" height="45" src="./img/bootstrap5.svg"></code>
+<code><img title="Vue JS" height="45" src="./img/vue.svg"></code>
 
 <!-- Figma, Git -->
 </div>
