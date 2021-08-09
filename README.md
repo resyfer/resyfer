@@ -1,6 +1,6 @@
 #### 👋 Supp!
 
-If you wanna know more about me, do give my [portfolio](https://resyfer.vercel.app/)
+If you wanna know more about me, do give my [portfolio](https://resyfer.vercel.app/) a visit 😁
 
 # I'm <b>Saurav Pal</b> <i>(resyfer)</i>
 
