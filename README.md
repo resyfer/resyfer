@@ -57,9 +57,12 @@ Oh and, a fresher learning the hell of doing a CSE major at [The National Instit
 
 ### Positions
 
+- <u>Second Year:</u>
+  - Member, Web Team, Google Developer Student Club, NIT Silchar (August 10th, 2021 - Present)
+
 - <u>First Year:</u>
   - Member, Web Dev Team, [Model United Nations, NIT Silchar](https://github.com/AdityaKotari/nitsmun2021-22) (May 20th, 2021 - Present)
-  - Co-Dev with [@codadept](https://github.com/codadept), [Official website of Physics Department, NIT Silchar](http://www.nits.ac.in/departments/physics/physics.php) (June 5th, 2021 - Present)
+  - Co-Dev with [@codadept (Pratik Majumdar)](https://github.com/codadept), [Official website of Physics Department, NIT Silchar](http://www.nits.ac.in/departments/physics/physics.php) (June 5th, 2021 - Present)
 
 ### Contests/Tournaments
 
@@ -75,14 +78,13 @@ Oh and, a fresher learning the hell of doing a CSE major at [The National Instit
 ## Wanna Say Hi?
 
 <div align="center" width=80%>
-<a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=palsaurav.2020@gmail.com&tf=1"><img height="45" src="./img/gmail.svg"></a>&emsp;&emsp;
+<a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=resyfer.dev@gmail.com&tf=1"><img height="45" src="./img/gmail.svg"></a>&emsp;&emsp;
 <a title="LinkedIn" href="https://www.linkedin.com/in/resyfer/"><img  height="40" src="./img/linkedin.svg"></a>&emsp;&emsp;
-<a title="Facebook" href="https://www.facebook.com/resyfer17/"><img  height="40" src="./img/facebook.svg"></a>&emsp;&emsp;
-<a title="WhatsApp" href="https://api.whatsapp.com/send?phone=919152539529"><img  height="40" src="./img/whatsapp.svg"></a>
+<a title="Facebook" href="https://www.facebook.com/resyfer17/"><img  height="40" src="./img/facebook.svg"></a>
 </div>
 
 ## Extra Info
 
-- <strong>My hobbies</hobbies>: Ofcourse, coding is one, but apart from that I like drawing, sound production, novels, anime
-- <strong>What I'm learning</strong>: DSA and MERN stack perfection ig
-- <strong>What I'm interested in</strong>: Wanna learn more about cloud, and kinda wanna use AIML for a project I have in my mind
+- <strong>My hobbies</hobbies>: Welp...coding, anime, novels, music production, digital drawing. Ig that's it ¯\\_(ツ)_/¯
+- <strong>What I'm learning</strong>: Really want to be a MERN stack perfectionist, and with sprinkles of DSA :D
+- <strong>What I'm interested in</strong>: Mostly JS. JS is amazing. Apart from that, navigating stuff in cloud's confusing, so that and I kinda wanna use AIML for a project I have in my mind, so maybe someday in the future I'll take in it up
