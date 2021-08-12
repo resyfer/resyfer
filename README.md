@@ -13,13 +13,13 @@ Oh and, a fresher learning the hell of doing a CSE major at [The National Instit
 <div align="center" width=80%>
 My Stack&emsp;👉&emsp;
 <code><img title="TypeScript (TS)" height="45" src="./img/typescript.svg"></code>&emsp;
-<code><img title="MongoDB" height="45" src="./img/mongodb.svg"></code>&emsp;
-<code><img title="Express" height="45" src="./img/express.svg"></code>&emsp;
 <code><img title="React" height="45" src="./img/reactjs.svg"></code>&emsp;
+<code><img title="Syntactically Awesome Style Sheets (Sass)" height="45" src="./img/sass.svg"></code>&emsp;
+<code><img title="Express" height="45" src="./img/express.svg"></code>&emsp;
 <code><img title="NodeJS" height="45" src="./img/nodejs.svg"></code>&emsp;
 <code><img title="GraphQL & Apollo" height="45" src="./img/graphql.svg"></code>&emsp;
-<code><img title="Syntactically Awesome Style Sheets (Sass)" height="45" src="./img/sass.svg"></code>&emsp;
 <code><img title="Material UI" height="45" src="./img/materialui.svg"></code>&emsp;
+<code><img title="MongoDB" height="45" src="./img/mongodb.svg"></code>&emsp;
 </div>
 <hr>
 <div align="center" width=80%>
