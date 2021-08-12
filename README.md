@@ -19,6 +19,7 @@ My Stack&emsp;👉&emsp;
 <code><img title="NodeJS" height="45" src="./img/nodejs.svg"></code>&emsp;
 <code><img title="GraphQL & Apollo" height="45" src="./img/graphql.svg"></code>&emsp;
 <code><img title="Syntactically Awesome Style Sheets (Sass)" height="45" src="./img/sass.svg"></code>&emsp;
+<code><img title="Material UI" height="45" src="./img/materialui.svg"></code>&emsp;
 </div>
 <hr>
 <div align="center" width=80%>
@@ -60,6 +61,7 @@ Things I've tinkered with a bit&emsp;👉&emsp;
 ### Positions
 
 - <u>Second Year:</u>
+
   - Member, Web Team, Google Developer Student Club, NIT Silchar (August 10th, 2021 - Present)
 
 - <u>First Year:</u>
