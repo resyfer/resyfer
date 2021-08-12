@@ -1,46 +1,48 @@
 #### 👋 Supp!
 
-If you wanna know more about me, do give my [portfolio](https://resyfer.vercel.app/) a visit 😁
-
-# I'm <b>Saurav Pal</b> <i>(resyfer)</i>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=resyfer.resyfer)
+# I'm <b>Saurav Pal</b> <i>(resyfer)</i>&nbsp;&nbsp;![visitors](https://visitor-badge.glitch.me/badge?page_id=resyfer.resyfer)
 
 Let's see . . . um, 19, Male (his/him), Indian<br><br>
 Oh and, a fresher learning the hell of doing a CSE major at [The National Institute of Technology, Silchar, India](http://www.nits.ac.in), which is an Institute of Eminence (in short, big scary important prison . . . I mean . . . college)
-<br><br>
+<br>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=resyfer&theme=react-dark&line=4722df&color=efefef&bg_color=2A2D32&custom_title=Me%20Doing%20What%20I%20Do&hide_border=true" />
 
 ## Skills that label me as a geek 🙄
 
 <div align="center" width=80%>
-  
-<br>
-  
+My Stack&emsp;👉&emsp;
+<code><img title="TypeScript (TS)" height="45" src="./img/typescript.svg"></code>&emsp;
 <code><img title="MongoDB" height="45" src="./img/mongodb.svg"></code>&emsp;
 <code><img title="Express" height="45" src="./img/express.svg"></code>&emsp;
 <code><img title="React" height="45" src="./img/reactjs.svg"></code>&emsp;
 <code><img title="NodeJS" height="45" src="./img/nodejs.svg"></code>&emsp;
 <code><img title="GraphQL & Apollo" height="45" src="./img/graphql.svg"></code>&emsp;
 <code><img title="Syntactically Awesome Style Sheets (Sass)" height="45" src="./img/sass.svg"></code>&emsp;
+</div>
+<hr>
+<div align="center" width=80%>
+Stuff I'm comfortable with&emsp;👉&emsp;
 <code><img title="JavaScript (JS)" height="45" src="./img/javascript.svg"></code>&emsp;
-
 <code><img title="C++ 17" height="45" src="./img/cpp.svg"></code>&emsp;
-<code><img title="JSON" height="45" src="./img/json.svg"></code>&emsp;
-<code><img title="EJS" height="45" src="./img/ejs.svg"></code>&emsp;
 <code><img title="Git" height="45" src="./img/git.svg"></code>&emsp;
 <code><img title="Heroku" height="45" src="./img/heroku.svg"></code>&emsp;
 <code><img title="C (11)" height="45" src="./img/c.svg"></code>&emsp;
 <code><img title="HTML 5" height="45" src="./img/html.svg"></code>&emsp;
 <code><img title="CSS 3" height="45" src="./img/css.svg"></code>&emsp;
-
-<code><img title="TypeScript (TS)" height="45" src="./img/typescript.svg"></code>&emsp;
+<code><img title="EJS" height="45" src="./img/ejs.svg"></code>&emsp;
+</div>
+<hr>
+<div align="center" width=80%>
+Tools I've used&emsp;👉&emsp;
 <code><img title="PHP" height="45" src="./img/php.svg"></code>&emsp;
-<code><img title="Python" height="45" src="./img/python.svg"></code>&emsp;
 <code><img title="Bootstrap 5" height="45" src="./img/bootstrap5.svg"></code>&emsp;
-<code><img title="Vue JS" height="45" src="./img/vue.svg"></code>&emsp;
-
+</div>
+<hr>
+<div align="center" width=80%>
+Things I've tinkered with a bit&emsp;👉&emsp;
+<code><img title="Python" height="45" src="./img/python.svg"></code>&emsp;
+<code><img title="Vue" height="45" src="./img/vue.svg"></code>&emsp;
 </div>
 <br>
 
@@ -88,3 +90,7 @@ Oh and, a fresher learning the hell of doing a CSE major at [The National Instit
 - <strong>My hobbies</hobbies>: Welp...coding, anime, novels, music production, digital drawing. Ig that's it ¯\\_(ツ)_/¯
 - <strong>What I'm learning</strong>: Really want to be a MERN stack perfectionist, and with sprinkles of DSA :D
 - <strong>What I'm interested in</strong>: Mostly JS. JS is amazing. Apart from that, navigating stuff in cloud's confusing, so that and I kinda wanna use AIML for a project I have in my mind, so maybe someday in the future I'll take in it up
+
+<hr>
+
+If you wanna know more about me, do give my [portfolio](https://resyfer.vercel.app/) a visit 😁
