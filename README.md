@@ -20,6 +20,7 @@ My Stack&emsp;👉&emsp;
 <code><img title="GraphQL & Apollo" height="45" src="./img/graphql.svg"></code>&emsp;
 <code><img title="Material UI" height="45" src="./img/materialui.svg"></code>&emsp;
 <code><img title="MongoDB" height="45" src="./img/mongodb.svg"></code>&emsp;
+<code><img title="Webpack" height="45" src="./img/webpack.svg"></code>&emsp;
 </div>
 <hr>
 <div align="center" width=80%>
