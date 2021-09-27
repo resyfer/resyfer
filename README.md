@@ -35,13 +35,13 @@ Comfort zone&emsp;👉&emsp;
 <hr>
 <div align="center" width=80%>
 Tools I've used&emsp;👉&emsp;
+<code><img title="Python" height="45" src="./img/python.svg"></code>&emsp;
 <code><img title="PHP" height="45" src="./img/php.svg"></code>&emsp;
 <code><img title="Bootstrap 5" height="45" src="./img/bootstrap5.svg"></code>&emsp;
 </div>
 <hr>
 <div align="center" width=80%>
 Things I've tinkered with a bit&emsp;👉&emsp;
-<code><img title="Python" height="45" src="./img/python.svg"></code>&emsp;
 <code><img title="Vue" height="45" src="./img/vue.svg"></code>&emsp;
 </div>
 <br>
