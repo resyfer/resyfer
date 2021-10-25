@@ -1,8 +1,9 @@
 # 👋 Supp! resyfer here!</i>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=resyfer.resyfer)
+[![Badge](https://cp-logo.vercel.app/codechef/resyfer?logo=true)](https://www.codechef.com/users/resyfer) [![Badge](https://cp-logo.vercel.app/codeforces/resyfer?logo=true)](https://cp-logo.vercel.app/codeforces/resyfer)
 
-Let's see . . . um, 19, his/him, a coder by passion.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=resyfer.resyfer) 
 
+Let's see . . . um, 19, his/him, a coder by passion.<br/>
 MEVN / MERN developer and I like Linux. I use Arch btw (:
 <br>
 
@@ -60,5 +61,5 @@ Contact me here:&emsp;<a title="Gmail" href="https://mail.google.com/mail/u/0/?v
 ## Extra Info
 
 - <strong>My hobbies</strong>: Welp...coding, anime, novels, music production, digital drawing and exploring Linux. Ig that's it ¯\\_(ツ)_/¯
-- <strong>What I'm learning</strong>: MEVN and DSA enthusiast
+- <strong>What I'm learning</strong>: MEVN, OS and DSA enthusiast
 - <strong>What I'm interested in</strong>: Vue and Operating Systems.
