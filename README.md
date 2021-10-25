@@ -3,10 +3,10 @@
 
 Let's see . . . um, 19, his/him, a coder by passion.
 
-MEVN developer (though MERN as well) and I like DSA and exploring Linux. I use Arch btw.
+MEVN / MERN developer and I like Linux. I use Arch btw (:
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=resyfer&theme=react-dark&line=4722df&color=efefef&bg_color=2A2D32&custom_title=Me%20Doing%20What%20I%20Do&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=resyfer&theme=react-dark&line=4722df&color=efefef&bg_color=2A2D32&custom_title=Me%20Doing%20What%20I%20Do&hide_border=true" alt="My commit graph didn't load :( properly"/>
 
 ## Technologies in my bag
 
@@ -55,10 +55,10 @@ Tools I've used&emsp;👉&emsp;
 </div>
 
 ## Wanna Say Hi?
-Contact mere here:&emsp;<a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=resyfer.dev@gmail.com&tf=1"><img height="30" src="./img/gmail.svg"></a>
+Contact me here:&emsp;<a title="Gmail" href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=resyfer.dev@gmail.com&tf=1"><img height="30" src="./img/gmail.svg"></a>
 
 ## Extra Info
 
-- <strong>My hobbies</strong>: Welp...coding, anime, novels, music production, digital drawing. Oh and I like exploring various Linux distros. Ig that's it ¯\\_(ツ)_/¯
+- <strong>My hobbies</strong>: Welp...coding, anime, novels, music production, digital drawing and exploring Linux. Ig that's it ¯\\_(ツ)_/¯
 - <strong>What I'm learning</strong>: MEVN and DSA enthusiast
-- <strong>What I'm interested in</strong>: I like Vue.
+- <strong>What I'm interested in</strong>: Vue and Operating Systems.
