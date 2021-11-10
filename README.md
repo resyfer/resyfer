@@ -13,6 +13,7 @@ I'm a C++ and MEVN developer (sometimes MERN as well) and I like Linux. I use Fe
 
 <div align="center" width=100%>
 My Preferred Stack&emsp;👉&emsp;
+<img title="C++ 17" height="30" src="./img/cpp.svg">&nbsp;
 <img title="Vue" height="30" src="./img/vue.svg">&nbsp;
 <img title="JavaScript (JS)" height="30" src="./img/javascript.svg">&nbsp;
 <img title="Syntactically Awesome Style Sheets (Sass)" height="30" src="./img/sass.svg">&nbsp;
@@ -26,7 +27,6 @@ My Preferred Stack&emsp;👉&emsp;
 Comfort zone&emsp;👉&emsp;
 <img title="React" height="30" src="./img/reactjs.svg">&nbsp;
 <img title="TypeScript (TS)" height="30" src="./img/typescript.svg">&nbsp;
-<img title="C++ 17" height="30" src="./img/cpp.svg">&nbsp;
 <img title="C (11)" height="30" src="./img/c.svg">&nbsp;
 <img title="Material UI" height="30" src="./img/materialui.svg">&nbsp;
 <img title="HTML 5" height="30" src="./img/html.svg">&nbsp;
