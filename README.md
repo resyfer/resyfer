@@ -10,7 +10,7 @@ I'm a C++/Go and MEVN/MERN developer and I like Linux. I use Fedora btw :)
 
 ## Stuff-I-Know Tier List
 
-Ever seen a tier-list on a Github profile? Welcome here's one on my skill level:
+Ever seen a tier-list on a Github profile? Well, here's one on my skill level:
 <br>
 
 <div align="center" width=100%>
@@ -36,7 +36,6 @@ A&emsp;👉&emsp;
 <img title="HTML 5" height="30" src="./img/html.svg">&nbsp;
 <img title="EJS" height="30" src="./img/ejs.svg">&nbsp;
 <img title="Material UI" height="30" src="./img/materialui.svg">&nbsp;
-
 </div>
 <br/>
 <div align="center" width=100%>
