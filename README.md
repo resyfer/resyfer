@@ -16,9 +16,9 @@ Ever seen a tier-list on a Github profile? Welcome here's one on my skill level:
 <div align="center" width=100%>
 S&emsp;👉&emsp;
 <img title="C++" height="30" src="./img/cpp.svg">&nbsp;
-<img title="C" height="30" src="./img/c.svg">&nbsp;
 <img title="React" height="30" src="./img/reactjs.svg">&nbsp;
 <img title="JavaScript" height="30" src="./img/javascript.svg">&nbsp;
+<img title="C" height="30" src="./img/c.svg">&nbsp;
 <img title="Syntactically Awesome Style Sheets (Sass)" height="30" src="./img/sass.svg">&nbsp;
 <img title="Express" height="30" src="./img/express.svg">&nbsp;
 <img title="NodeJS" height="30" src="./img/nodejs.svg">&nbsp;
@@ -87,6 +87,6 @@ Contact me here:&emsp;<a title="Gmail" href="https://mail.google.com/mail/u/0/?v
 
 ## Extra Info
 
-- <strong>My hobbies</strong>: Welp...coding, anime, novels, music production, digital drawing and exploring Linux. Ig that's it ¯\\_(ツ)_/¯
-- <strong>What I'm learning</strong>: MEVN, OS and DSA enthusiast
-- <strong>What I'm interested in</strong>: Vue and Operating Systems.
+- <strong>My hobbies</strong>: Welp...coding, anime, novels, digital drawing and exploring Linux. Ig that's it ¯\\_(ツ)_/¯
+- <strong>What I'm learning</strong>: MEVN, DSA and OS and being a better developer in general
+- <strong>What I'm interested in</strong>: Go and Vue.
