@@ -15,6 +15,7 @@ Ever seen a tier-list on a Github profile? Well, here's one on my skill level:
 
 <div align="center" width=100%>
 S&emsp;👉&emsp;
+<img title="Go" height="30" src="./img/go.svg">&nbsp;
 <img title="C++" height="30" src="./img/cpp.svg">&nbsp;
 <img title="React" height="30" src="./img/reactjs.svg">&nbsp;
 <img title="JavaScript" height="30" src="./img/javascript.svg">&nbsp;
@@ -32,7 +33,6 @@ S&emsp;👉&emsp;
 <br/>
 <div align="center" width=100%>
 A&emsp;👉&emsp;
-<img title="Go" height="30" src="./img/go.svg">&nbsp;
 <img title="HTML 5" height="30" src="./img/html.svg">&nbsp;
 <img title="EJS" height="30" src="./img/ejs.svg">&nbsp;
 <img title="Material UI" height="30" src="./img/materialui.svg">&nbsp;
