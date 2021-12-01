@@ -3,7 +3,7 @@
 [![Badge](https://cp-logo.vercel.app/codechef/resyfer?logo=true)](https://www.codechef.com/users/resyfer) [![Badge](https://cp-logo.vercel.app/codeforces/resyfer?logo=true)](https://codeforces.com/profile/resyfer) ![visitors](https://visitor-badge.glitch.me/badge?page_id=resyfer.resyfer)
 
 Let's see . . . um, 19, his/him, a coder by passion.<br/>
-I'm a C++/Go and MEVN/MERN developer and I like Linux. I use Fedora btw :)
+I'm a Go/C++ and MEVN/MERN developer and I like Linux. I use Fedora btw :)
 <br>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=resyfer&theme=react-dark&line=4722df&color=efefef&bg_color=2A2D32&custom_title=Me%20Doing%20What%20I%20Do&hide_border=true" alt="My commit graph didn't load :( properly"/>
