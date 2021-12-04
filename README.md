@@ -75,7 +75,7 @@ F&emsp;👉&emsp;
 
 <div align="center" width=100%>
   
-  | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resyfer&theme=synthwave&layout=compact"> | <img height="150" src="https://github-readme-stats.vercel.app/api?username=resyfer&count_private=t&hide=stars&theme=synthwave"> |
+  | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resyfer&&langs_count=12&theme=synthwave&layout=compact"> | <img height="150" src="https://github-readme-stats.vercel.app/api?username=resyfer&count_private=t&hide=stars&theme=synthwave"> |
   |---|---|
 
 </div>
