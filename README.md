@@ -13,7 +13,7 @@ I'm a Go/C++ and MEVN/MERN developer and I like Linux. I use Fedora btw :)
 Ever seen a tier-list on a Github profile? Well, here's one on my skill level:
 <br>
 
-<div align="center" width=100%>
+<div align="left" width=100%>
 S&emsp;👉&emsp;
 <img title="Go" height="30" src="./img/go.svg">&nbsp;
 <img title="C++" height="30" src="./img/cpp.svg">&nbsp;
@@ -31,14 +31,14 @@ S&emsp;👉&emsp;
 <img title="CSS 3" height="30" src="./img/css.svg">&nbsp;
 </div>
 <br/>
-<div align="center" width=100%>
+<div align="left" width=100%>
 A&emsp;👉&emsp;
 <img title="HTML 5" height="30" src="./img/html.svg">&nbsp;
 <img title="EJS" height="30" src="./img/ejs.svg">&nbsp;
 <img title="Material UI" height="30" src="./img/materialui.svg">&nbsp;
 </div>
 <br/>
-<div align="center" width=100%>
+<div align="left" width=100%>
 B&emsp;👉&emsp;
 <img title="Bash and Fish Script" height="30" src="./img/console.svg">&nbsp;
 <img title="Python 3" height="30" src="./img/python.svg">&nbsp;
@@ -50,20 +50,20 @@ B&emsp;👉&emsp;
 <img title="Tailwind CSS" height="30" src="./img/tailwindcss.svg">&nbsp;
 </div>
 <br/>
-<div align="center" width=100%>
+<div align="left" width=100%>
 C&emsp;👉&emsp;
 <img title="Bootstrap 5" height="30" src="./img/bootstrap5.svg">&nbsp;
 <img title="Rust" height="30" src="./img/rust.svg">&nbsp;
 </div>
 <br/>
-<div align="center" width=100%>
+<div align="left" width=100%>
 D&emsp;👉&emsp;
 <img title="Heroku" height="30" src="./img/heroku.svg">&nbsp;
 <img title="Webpack" height="30" src="./img/webpack.svg">&nbsp;
 <img title="AutoHotKey (AHK)" height="30" src="./img/autohotkey.svg">&nbsp;
 </div>
 <br/>
-<div align="center" width=100%>
+<div align="left" width=100%>
 F&emsp;👉&emsp;
 <img title="Google Cloud Platform" height="30" src="./img/gcp.svg">&nbsp;
 <img title="NextJS" height="30" src="./img/next.svg">&nbsp;
