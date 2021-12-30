@@ -19,20 +19,20 @@ S&emsp;👉&emsp;
 <img title="C++" height="30" src="./img/cpp.svg">&nbsp;
 <img title="React" height="30" src="./img/reactjs.svg">&nbsp;
 <img title="JavaScript" height="30" src="./img/javascript.svg">&nbsp;
-<img title="C" height="30" src="./img/c.svg">&nbsp;
 <img title="Syntactically Awesome Style Sheets (Sass)" height="30" src="./img/sass.svg">&nbsp;
-<img title="Express" height="30" src="./img/express.svg">&nbsp;
 <img title="NodeJS" height="30" src="./img/nodejs.svg">&nbsp;
 <img title="GraphQL" height="30" src="./img/graphql.svg">&nbsp;
 <img title="TypeScript" height="30" src="./img/typescript.svg">&nbsp;
 <img title="MongoDB" height="30" src="./img/mongodb.svg">&nbsp;
-<img title="Vue 3" height="30" src="./img/vue.svg">&nbsp;
 <img title="Apollo Server, React and Vue Clients for GraphQl" height="30" src="./img/apollo.svg">&nbsp;
 <img title="CSS 3" height="30" src="./img/css.svg">&nbsp;
 </div>
 <br/>
 <div align="left" width=100%>
 A&emsp;👉&emsp;
+<img title="Rust" height="30" src="./img/rust.svg">&nbsp;
+<img title="Vue 3" height="30" src="./img/vue.svg">&nbsp;
+<img title="C" height="30" src="./img/c.svg">&nbsp;
 <img title="HTML 5" height="30" src="./img/html.svg">&nbsp;
 <img title="EJS" height="30" src="./img/ejs.svg">&nbsp;
 <img title="Material UI" height="30" src="./img/materialui.svg">&nbsp;
@@ -42,18 +42,16 @@ A&emsp;👉&emsp;
 B&emsp;👉&emsp;
 <img title="Bash and Fish Script" height="30" src="./img/console.svg">&nbsp;
 <img title="Python 3" height="30" src="./img/python.svg">&nbsp;
-<img title="Jupyter Notebooks" height="30" src="./img/jupyter.svg">&nbsp;
 <img title="Git" height="30" src="./img/git.svg">&nbsp;
 <img title="Vim & NeoVim" height="30" src="./img/vim.svg">&nbsp;
-<img title="PHP 7" height="30" src="./img/php.svg">&nbsp;
 <img title="Yarn 1" height="30" src="./img/yarn.svg">&nbsp;
 <img title="Tailwind CSS" height="30" src="./img/tailwindcss.svg">&nbsp;
 </div>
 <br/>
 <div align="left" width=100%>
 C&emsp;👉&emsp;
+<img title="PHP 7" height="30" src="./img/php.svg">&nbsp;
 <img title="Bootstrap 5" height="30" src="./img/bootstrap5.svg">&nbsp;
-<img title="Rust" height="30" src="./img/rust.svg">&nbsp;
 </div>
 <br/>
 <div align="left" width=100%>
@@ -62,16 +60,9 @@ D&emsp;👉&emsp;
 <img title="Webpack" height="30" src="./img/webpack.svg">&nbsp;
 <img title="AutoHotKey (AHK)" height="30" src="./img/autohotkey.svg">&nbsp;
 </div>
-<br/>
-<div align="left" width=100%>
-F&emsp;👉&emsp;
-<img title="Google Cloud Platform" height="30" src="./img/gcp.svg">&nbsp;
-<img title="NextJS" height="30" src="./img/next.svg">&nbsp;
-</div>
-</div>
 <br>
 
-## VSCode a day to keep the bugs away
+## VSCode a day keeps the bugs away
 
 <div align="center" width=100%>
   
@@ -86,6 +77,5 @@ Contact me here:&emsp;<a title="Gmail" href="https://mail.google.com/mail/u/0/?v
 
 ## Extra Info
 
-- <strong>My hobbies</strong>: Welp...coding, anime, novels, digital drawing and exploring Linux. Ig that's it ¯\\_(ツ)_/¯
-- <strong>What I'm learning</strong>: MEVN, DSA and OS and being a better developer in general
-- <strong>What I'm interested in</strong>: Go and Vue.
+- <strong>My hobbies</strong>: Welp...coding, anime, light novels, digital drawing and exploring Linux. Ig that's it ¯\\_(ツ)_/¯
+- <strong>What I'm learning</strong>: Rust, Go, DSA, MEVN and being a better developer in general
