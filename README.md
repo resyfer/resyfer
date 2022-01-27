@@ -30,6 +30,7 @@ S&emsp;👉&emsp;
 <br/>
 <div align="left" width=100%>
 A&emsp;👉&emsp;
+<img title="Python 3" height="30" src="./img/python.svg">&nbsp;
 <img title="Rust" height="30" src="./img/rust.svg">&nbsp;
 <img title="Vue 3" height="30" src="./img/vue.svg">&nbsp;
 <img title="C" height="30" src="./img/c.svg">&nbsp;
@@ -41,7 +42,6 @@ A&emsp;👉&emsp;
 <div align="left" width=100%>
 B&emsp;👉&emsp;
 <img title="Bash and Fish Script" height="30" src="./img/console.svg">&nbsp;
-<img title="Python 3" height="30" src="./img/python.svg">&nbsp;
 <img title="Git" height="30" src="./img/git.svg">&nbsp;
 <img title="Vim & NeoVim" height="30" src="./img/vim.svg">&nbsp;
 <img title="Yarn 1" height="30" src="./img/yarn.svg">&nbsp;
