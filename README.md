@@ -2,7 +2,7 @@
 
 [![Badge](https://cp-logo.vercel.app/codechef/resyfer?logo=true)](https://www.codechef.com/users/resyfer) [![Badge](https://cp-logo.vercel.app/codeforces/resyfer?logo=true)](https://codeforces.com/profile/resyfer) ![visitors](https://visitor-badge.glitch.me/badge?page_id=resyfer.resyfer)
 
-Let's see . . . um, 19, his/him, a coder by passion.<br/>
+Let's see . . . um, 20, his/him, a coder by passion.<br/>
 I'm a Go/C++ and MEVN/MERN developer and I like Linux. I use Fedora btw :)
 <br>
 
