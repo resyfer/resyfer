@@ -6,7 +6,7 @@ Let's see . . . um, 20, his/him, a coder by passion.<br/>
 I'm a Go/C++ and MEVN/MERN developer and I like Linux. I use Fedora btw :)
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=resyfer&theme=react-dark&line=4722df&color=efefef&bg_color=2A2D32&custom_title=Me%20Doing%20What%20I%20Do&hide_border=true" alt="My commit graph didn't load :( properly"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=resyfer&theme=react-dark&line=4722df&color=efefef&bg_color=2A2D32&custom_title=Me%20Doing%20What%20I%20Do&hide_border=true" alt="My commit graph didn't load :( properly"/>
 
 ## Stuff-I-Know Tier List
 
