@@ -30,15 +30,13 @@ listing all of them:
 ## Coding a day keeps the bugs away!
  
 <div align="center" width=100%>
-
-![image](https://github.com/resyfer/resyfer/assets/74897008/d31519ad-4c69-45cb-a915-12b9ca0b007b)&emsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resyfer&layout=donut&theme=radical&langs_count=8)
-
+ 
 ![commit-graph](https://github-readme-activity-graph.vercel.app/graph?username=resyfer&theme=react-dark&area=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=resyfer&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)&emsp;
 ![Stats](https://github-readme-stats.vercel.app/api?username=resyfer&theme=radical&show_icons=true)
-  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resyfer&layout=donut&theme=radical&langs_count=8)
 </div>
 
 [Wanna say hi?](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=resyfer.dev@gmail.com&tf=1)
