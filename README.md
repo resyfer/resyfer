@@ -7,7 +7,7 @@ I'm 21, and since it's a necessity these days, my pronouns are he/him.
  
 I like coding, open source, anime, light novels, digital art, and anything that piques my curiosity.
  
-Creator of [sirin](https://www.npmjs.com/package/sirin) and [apophis](https://www.npmjs.com/package/apophis) NPM packages, [GSoC '23 @ PostgreSQL](https://summerofcode.withgoogle.com/programs/2023/projects/Djrl5w5B), Project Intern @ Oracle for Summer '23.
+Creator of [sirin](https://www.npmjs.com/package/sirin) and [apophis](https://www.npmjs.com/package/apophis) NPM packages, [GSoC '23 @ PostgreSQL](https://summerofcode.withgoogle.com/programs/2023/projects/Djrl5w5B), Project Intern @ Oracle for Summer '23, ex-Cloud Moderator @ [GDSC NIT Silchar](https://gdsc.community.dev/national-institute-of-technology-nit-silchar/) for 2022-23.
 
 ## Personal Technology Tier-List
 
